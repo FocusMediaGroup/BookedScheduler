@@ -1,4 +1,4 @@
-Unfortunately the source code for Booked Scheduler is no longer being distributed and version 2.8.5 seems to have been the last open source release, see https://www.bookedscheduler.com/the-future-of-booked/ and https://sourceforge.net/projects/phpscheduleit/files/ "Booked Scheduler will become a ful SaaS offering on November 1, 2020. This open source project will be discontinued. "
+Unfortunately the source code for Booked Scheduler is no longer being distributed and version 2.8.5 seems to have been the last open source release, see https://www.fmgegypt.com/the-future-of-booked/ and https://sourceforge.net/projects/phpscheduleit/files/ "Booked Scheduler will become a ful SaaS offering on November 1, 2020. This open source project will be discontinued. "
 
 This repo is a copy of the https://sourceforge.net/projects/phpscheduleit git repo, it also contains several branches where I'm hoping to fix bugs, add features, etc.
 

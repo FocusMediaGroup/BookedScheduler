@@ -26,7 +26,7 @@ We now have a chatroom on Gitter.im, join us at: <https://gitter.im/bookedschedu
 
 #### 2.8.5.4
 
-**This version is no longer developed by Twinkle Toes Software (<https://www.bookedscheduler.com>)**
+**This version is no longer developed by Twinkle Toes Software (<https://www.fmgegypt.com>)**
 Based on the original open source version of Booked, now available at: [https://github.com/effgarces/BookedScheduler](https://github.com/FocusMediaGroup/BookedScheduler)  
 Fork this repo, contribute and help keep it alive
 
@@ -34,7 +34,7 @@ Way too many changes, bugfixes and improvements to list them all here, so please
 
 #### 2.8.5.3
 
-**This version is no longer developed by Twinkle Toes Software (<https://www.bookedscheduler.com>)**
+**This version is no longer developed by Twinkle Toes Software (<https://www.fmgegypt.com>)**
 Based on the original open source version of Booked, now available at: [https://github.com/effgarces/BookedScheduler](https://github.com/FocusMediaGroup/BookedScheduler)  
 Fork this repo, contribute and help keep it alive
 
@@ -44,13 +44,13 @@ Fork this repo, contribute and help keep it alive
 
 #### 2.8.5.2
 
-**This version is no longer developed by Twinkle Toes Software (<https://www.bookedscheduler.com>)**
+**This version is no longer developed by Twinkle Toes Software (<https://www.fmgegypt.com>)**
 Based on the original open source version of Booked, now available at: [https://github.com/effgarces/BookedScheduler](<https://github.com/FocusMediaGroup/BookedScheduler>)  
 Fork this repo, contribute and help keep it alive - Bugfixes
 
 #### 2.8.5.1
 
-**This version is no longer developed by Twinkle Toes Software (<https://www.bookedscheduler.com>)**
+**This version is no longer developed by Twinkle Toes Software (<https://www.fmgegypt.com>)**
 Based on the original open source version of Booked, now available at: [https://github.com/effgarces/BookedScheduler](<https://github.com/FocusMediaGroup/BookedScheduler>)<br>
 
 Fork this repo, contribute and help keep it alive - Added intial support for generating pdf's on the reservation page
@@ -523,7 +523,7 @@ Fork this repo, contribute and help keep it alive - Added intial support for gen
 
 #### 2.5
 
-- Application renamed from phpScheduleIt to Booked Scheduler [(why?)](http://www.bookedscheduler.com/phpscheduleit)
+- Application renamed from phpScheduleIt to Booked Scheduler [(why?)](http://www.fmgegypt.com/phpscheduleit)
 - Added ability to reserve resource groups
 - Added ability to filter schedule resources
 - Added ability to specify resource type

@@ -7,7 +7,7 @@
 
         <h2>Support</h2>
 
-        <p><a href="https://forums.bookedscheduler.com">Booked Scheduler Community Support</a></p>
+        <p><a href="https://forums.fmgegypt.com">Booked Scheduler Community Support</a></p>
 
         <h2>Credits</h2>
 
