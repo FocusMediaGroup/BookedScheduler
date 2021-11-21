@@ -1,5 +1,5 @@
 <p>{$FullName},
-<p>ha creato un account su Booked Scheduler con le seguenti informazioni:</p>
+<p>ha creato un account su FMG Scheduler con le seguenti informazioni:</p>
 <p>
     <strong>Email:</strong> {$EmailAddress}<br />
     <strong>Password:</strong> <em>{$Password}</em>

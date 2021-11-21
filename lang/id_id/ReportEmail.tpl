@@ -1,4 +1,4 @@
-Laporan Anda dari Booked Scheduler terlampir.<br/>
+Laporan Anda dari FMG Scheduler terlampir.<br/>
 
-<a href="{$ScriptUrl}">Masuk Booked Scheduler</a>
+<a href="{$ScriptUrl}">Masuk FMG Scheduler</a>
 

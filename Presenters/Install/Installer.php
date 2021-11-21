@@ -64,7 +64,7 @@ class Installer
         $results[] = $this->ExecuteScript($hostname, $database_name, $this->user, $this->password, $populate_data);
 
         /**
-         * Populate sample data given in /Booked Scheduler/database_schema/sample-data-utf8.sql
+         * Populate sample data given in /FMG Scheduler/database_schema/sample-data-utf8.sql
          */
         if ($should_create_sample_data) {
             $results[] = $this->ExecuteScript($hostname, $database_name, $this->user, $this->password, $populate_sample_data);

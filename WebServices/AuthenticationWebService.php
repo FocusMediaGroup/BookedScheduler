@@ -21,7 +21,7 @@ class AuthenticationWebService
 
     /**
      * @name Authenticate
-     * @description Authenticates an existing Booked Scheduler user
+     * @description Authenticates an existing FMG Scheduler user
      * @request AuthenticationRequest
      * @response AuthenticationResponse
      * @return void

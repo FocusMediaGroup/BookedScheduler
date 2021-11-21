@@ -793,7 +793,7 @@ class en_us extends Language
         // End Strings
 
         // Install
-        $strings['InstallApplication'] = 'Install Booked Scheduler';
+        $strings['InstallApplication'] = 'Install FMG Scheduler';
         $strings['IncorrectInstallPassword'] = 'Sorry, that password was incorrect.';
         $strings['SetInstallPassword'] = 'You must set an install password before the installation can be run.';
         $strings['InstallPasswordInstructions'] = 'In %s please set %s to a password which is random and difficult to guess, then return to this page.<br/>You can use %s';
@@ -822,10 +822,10 @@ class en_us extends Language
         $strings['InstallationSuccess'] = 'Installation completed successfully!';
         $strings['RegisterAdminUser'] = 'Register your admin user. This is required if you did not import the sample data. Ensure that $conf[\'settings\'][\'allow.self.registration\'] = \'true\' in your %s file.';
         $strings['LoginWithSampleAccounts'] = 'If you imported the sample data, you can log in with admin/password for admin user or user/password for basic user.';
-        $strings['InstalledVersion'] = 'You are now running version %s of Booked Scheduler';
+        $strings['InstalledVersion'] = 'You are now running version %s of FMG Scheduler';
         $strings['InstallUpgradeConfig'] = 'It is recommended to upgrade your config file';
         $strings['InstallationFailure'] = 'There were problems with the installation.  Please correct them and retry the installation.';
-        $strings['ConfigureApplication'] = 'Configure Booked Scheduler';
+        $strings['ConfigureApplication'] = 'Configure FMG Scheduler';
         $strings['ConfigUpdateSuccess'] = 'Your config file is now up to date!';
         $strings['ConfigUpdateFailure'] = 'We could not automatically update your config file. Please overwrite the contents of config.php with the following:';
         $strings['ScriptUrlWarning'] = 'Your <em>script.url</em> setting may not be correct. It is currently <strong>%s</strong>, we think it should be <strong>%s</strong>';

@@ -37,7 +37,7 @@ interface IConfigurationFile
     public function GetKey($name, $converter = null);
 
     /**
-     * @return string the full url to the root of this Booked Scheduler instance WITHOUT the trailing /
+     * @return string the full url to the root of this FMG Scheduler instance WITHOUT the trailing /
      */
     public function GetScriptUrl();
 

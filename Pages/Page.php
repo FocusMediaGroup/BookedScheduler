@@ -50,7 +50,7 @@ abstract class Page implements IPage
         $appTitle = Configuration::Instance()->GetKey(ConfigKeys::APP_TITLE);
         $pageTile = $resources->GetString($titleKey);
         $this->smarty->assign('Title', (empty($appTitle) ? 'Booked' : $appTitle) . (empty($pageTile) ? '' : ' - ' . $pageTile));
-        $this->smarty->assign('AppTitle', (empty($appTitle) ? 'Booked Scheduler' : $appTitle));
+        $this->smarty->assign('AppTitle', (empty($appTitle) ? 'FMG Scheduler' : $appTitle));
         $companyName = Configuration::Instance()->GetKey(ConfigKeys::COMPANY_NAME);
         $companyUrl = Configuration::Instance()->GetKey(ConfigKeys::COMPANY_URL);
         $this->smarty->assign('CompanyName', (empty($companyName) ? '' : $companyName));

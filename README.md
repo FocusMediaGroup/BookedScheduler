@@ -1,4 +1,4 @@
-# Welcome to Booked Scheduler
+# Welcome to FMG Scheduler
 
 This is a community effort to keep the OpenSource [GPLv3](./LICENSE.md) FMGScheduler alive, see [History](./doc/HISTORY.md)
 
@@ -523,7 +523,7 @@ Fork this repo, contribute and help keep it alive - Added intial support for gen
 
 #### 2.5
 
-- Application renamed from phpScheduleIt to Booked Scheduler [(why?)](http://www.fmgegypt.com/phpscheduleit)
+- Application renamed from phpScheduleIt to FMG Scheduler [(why?)](http://www.fmgegypt.com/phpscheduleit)
 - Added ability to reserve resource groups
 - Added ability to filter schedule resources
 - Added ability to specify resource type

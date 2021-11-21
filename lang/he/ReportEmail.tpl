@@ -1,5 +1,5 @@
-מצ"ב דו"ח שלך מ-Booked Scheduler.<br/>
+מצ"ב דו"ח שלך מ-FMG Scheduler.<br/>
 
-<a href="{$ScriptUrl}">להתבר ל-Booked Scheduler</a>
+<a href="{$ScriptUrl}">להתבר ל-FMG Scheduler</a>
 
 

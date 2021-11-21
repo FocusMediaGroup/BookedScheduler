@@ -1,3 +1,3 @@
-Прикачен е вашия отчет от Booked Scheduler.<br/>
+Прикачен е вашия отчет от FMG Scheduler.<br/>
 
-<a href="{$ScriptUrl}">Влизане в Booked Scheduler</a>
+<a href="{$ScriptUrl}">Влизане в FMG Scheduler</a>

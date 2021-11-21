@@ -29,7 +29,7 @@ Logically related code should be grouped in a directory with a "namespace.php" f
 This simply makes it easier to include necessary file dependencies.
 
 ## API
-Booked Scheduler has a REST-API
+FMG Scheduler has a REST-API
 [API-Documentation](./API.md)
 
 ## User interface

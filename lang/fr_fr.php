@@ -459,7 +459,7 @@ class fr_fr extends en_gb
         // End Strings
 
         // Install
-        $strings['InstallApplication'] = 'Installer Booked Scheduler (seulement avec MySQL)';
+        $strings['InstallApplication'] = 'Installer FMG Scheduler (seulement avec MySQL)';
         $strings['IncorrectInstallPassword'] = 'Désolé, ce mot de passe est incorrect.';
         $strings['SetInstallPassword'] = 'Vous devez définir un mot de passe pour votre installation avant de pouvoir poursuivre votre installation.';
         $strings['InstallPasswordInstructions'] = 'Dans %s veuillez définir %s avec un mot de passe qui est aléatoire et difficile à trouver, ensuite retournez à cette page.<br/>Vous pouvez utiliser %s';
@@ -488,10 +488,10 @@ class fr_fr extends en_gb
         $strings['InstallationSuccess'] = 'L\'installation s\'est achevée avec succès!';
         $strings['RegisterAdminUser'] = 'Enregistrer votre compte administrateur. Ceci est obligatoire si vous n\'avez pas importé les exemples de données. Vérifiez que $conf[\'settings\'][\'allow.self.registration\'] = \'true\' dans votre fichier %s.';
         $strings['LoginWithSampleAccounts'] = 'Si vous avez importé les exemples de données, vous pouvez vous connecter avec admin/password pour être administrateur ou avec user/password pour un simple compte utilisateur.';
-        $strings['InstalledVersion'] = 'Vous utilisez à présent la version %s de Booked Scheduler';
+        $strings['InstalledVersion'] = 'Vous utilisez à présent la version %s de FMG Scheduler';
         $strings['InstallUpgradeConfig'] = 'Il est recommandé de mettre à jour votre fichier de configuration';
         $strings['InstallationFailure'] = 'Il y a des problèmes avec l\'installation. Veuillez les corriger et réessayer.';
-        $strings['ConfigureApplication'] = 'Configurer Booked Scheduler';
+        $strings['ConfigureApplication'] = 'Configurer FMG Scheduler';
         $strings['ConfigUpdateSuccess'] = 'Votre fichier de configuration est maintenant à jour!';
         $strings['ConfigUpdateFailure'] = 'Nous n\'avons pas pu mettre à jour votre fichier de configuration automatiquement. Veuillez modifier le contenu de votre fichier config.php avec les données suivantes:';
         $strings['SelectUser'] = 'Sélectionner un Utilisateur';

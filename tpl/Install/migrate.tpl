@@ -1,6 +1,6 @@
-{include file='globalheader.tpl' Title='Booked Scheduler v2 Migration'}
+{include file='globalheader.tpl' Title='FMG Scheduler v2 Migration'}
 
-<h1>Migrate phpScheduleIt v1.2 to Booked Scheduler v2.x (MySQL only)</h1>
+<h1>Migrate phpScheduleIt v1.2 to FMG Scheduler v2.x (MySQL only)</h1>
 
 <div class="migratingElements" style="display:none;">Migrating <span
 			class="elementType"></span> {html_image src="admin-ajax-indicator.gif"}</div>
@@ -182,7 +182,7 @@ Done!
 				<li>Group admin designations will not be migrated, only the user accounts</li>
 				<li>Open reservation invitations will be removed</li>
 				<li>User timezones will all be set to the server's timezone</li>
-				<li>At the time of writing, Booked Scheduler 2 is not available in all of the same languages that 1.2 was.
+				<li>At the time of writing, FMG Scheduler 2 is not available in all of the same languages that 1.2 was.
 					User language preferences will be migrated but may have no immediate effect
 				</li>
 				<li>User email preferences will not be migrated</li>

@@ -1,4 +1,4 @@
-# Booked Scheduler API Documentation
+# FMG Scheduler API Documentation
 
 A dynamically generated API documentation Page can be found by opening `<booked-url>/Web/Services/index.php` (API has to be enabled in config)
 
@@ -491,7 +491,7 @@ __Request:__
 
 __Description:__  
 
-Authenticates an existing Booked Scheduler user
+Authenticates an existing FMG Scheduler user
 
 __Route:__ `/Web/Services/index.php/Authentication/Authenticate`
 

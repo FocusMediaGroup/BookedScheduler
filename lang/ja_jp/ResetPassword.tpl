@@ -1,4 +1,4 @@
-Booked Scheduler の仮パスワードです:: {$TemporaryPassword}
+FMG Scheduler の仮パスワードです:: {$TemporaryPassword}
 
 <br/>
 
@@ -6,4 +6,4 @@ Booked Scheduler の仮パスワードです:: {$TemporaryPassword}
 <br/>
 <br/>
 
-出来るだけ早く<a href="{$ScriptUrl}">Booked Scheduler にログイン</a>してパスワードを変更してください。
+出来るだけ早く<a href="{$ScriptUrl}">FMG Scheduler にログイン</a>してパスワードを変更してください。
