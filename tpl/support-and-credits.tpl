@@ -11,7 +11,7 @@
 
         <h2>Credits</h2>
 
-        <p>see <a href=https://github.com/effgarces/BookedScheduler/blob/master/CONTRIBUTORS.md/>CONTRIBUTORS.md</a></p>
+        <p>see <a href=https://github.com/FocusMediaGroup/BookedScheduler/blob/master/CONTRIBUTORS.md/>CONTRIBUTORS.md</a></p>
 
         <h2>License</h2>
 

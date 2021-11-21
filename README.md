@@ -27,7 +27,7 @@ We now have a chatroom on Gitter.im, join us at: <https://gitter.im/fmgscheduler
 #### 2.8.5.4
 
 **This version is no longer developed by Twinkle Toes Software (<https://www.fmgegypt.com>)**
-Based on the original open source version of Booked, now available at: [https://github.com/effgarces/BookedScheduler](https://github.com/FocusMediaGroup/BookedScheduler)  
+Based on the original open source version of Booked, now available at: [https://github.com/FocusMediaGroup/BookedScheduler](https://github.com/FocusMediaGroup/BookedScheduler)  
 Fork this repo, contribute and help keep it alive
 
 Way too many changes, bugfixes and improvements to list them all here, so please take a look at: https://github.com/FocusMediaGroup/BookedScheduler/commits/master
@@ -35,7 +35,7 @@ Way too many changes, bugfixes and improvements to list them all here, so please
 #### 2.8.5.3
 
 **This version is no longer developed by Twinkle Toes Software (<https://www.fmgegypt.com>)**
-Based on the original open source version of Booked, now available at: [https://github.com/effgarces/BookedScheduler](https://github.com/FocusMediaGroup/BookedScheduler)  
+Based on the original open source version of Booked, now available at: [https://github.com/FocusMediaGroup/BookedScheduler](https://github.com/FocusMediaGroup/BookedScheduler)  
 Fork this repo, contribute and help keep it alive
 
 - Added translation: Greek
@@ -45,13 +45,13 @@ Fork this repo, contribute and help keep it alive
 #### 2.8.5.2
 
 **This version is no longer developed by Twinkle Toes Software (<https://www.fmgegypt.com>)**
-Based on the original open source version of Booked, now available at: [https://github.com/effgarces/BookedScheduler](<https://github.com/FocusMediaGroup/BookedScheduler>)  
+Based on the original open source version of Booked, now available at: [https://github.com/FocusMediaGroup/BookedScheduler](<https://github.com/FocusMediaGroup/BookedScheduler>)  
 Fork this repo, contribute and help keep it alive - Bugfixes
 
 #### 2.8.5.1
 
 **This version is no longer developed by Twinkle Toes Software (<https://www.fmgegypt.com>)**
-Based on the original open source version of Booked, now available at: [https://github.com/effgarces/BookedScheduler](<https://github.com/FocusMediaGroup/BookedScheduler>)<br>
+Based on the original open source version of Booked, now available at: [https://github.com/FocusMediaGroup/BookedScheduler](<https://github.com/FocusMediaGroup/BookedScheduler>)<br>
 
 Fork this repo, contribute and help keep it alive - Added intial support for generating pdf's on the reservation page
 
