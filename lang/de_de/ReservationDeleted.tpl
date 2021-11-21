@@ -47,5 +47,5 @@ Beschreibung: {$Description|nl2br}<br/>
     {/foreach}
 {/if}
 <br/>
-<a href="{$ScriptUrl}">Anmelden bei FMG Scheduler</a>
+<a href="{$ScriptUrl}">Anmelden bei Hospitality Signage Platform</a>
 

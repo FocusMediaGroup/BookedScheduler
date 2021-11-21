@@ -40,6 +40,6 @@ Description: {$Description|nl2br}<br/>
     {/foreach}
 {/if}
 
-<a href="{$ScriptUrl}">Connexion à FMG Scheduler</a>
+<a href="{$ScriptUrl}">Connexion à Hospitality Signage Platform</a>
 
 

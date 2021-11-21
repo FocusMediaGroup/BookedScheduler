@@ -41,6 +41,6 @@
 	<br/>
 	<a href="{$ScriptUrl}/{$ReservationUrl}">לצפות בהזמנה</a> |
 	<a href="{$ScriptUrl}/{$ICalUrl}">להוסיף לאוטלוג</a> |
-	<a href="{$ScriptUrl}">כניסה ל-FMG Scheduler</a>
+	<a href="{$ScriptUrl}">כניסה ל-Hospitality Signage Platform</a>
 
 

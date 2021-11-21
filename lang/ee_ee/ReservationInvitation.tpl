@@ -49,4 +49,4 @@
 
 	<a href="{$ScriptUrl}/{$ReservationUrl}">View this reservation</a> |
 	<a href="{$ScriptUrl}/{$ICalUrl}">Add to Calendar</a> |
-	<a href="{$ScriptUrl}">Log in to FMG Scheduler</a>
+	<a href="{$ScriptUrl}">Log in to Hospitality Signage Platform</a>

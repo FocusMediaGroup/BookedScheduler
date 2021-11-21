@@ -1,5 +1,5 @@
 =======================
-Setting up the Apache Authentication plugin for FMG Scheduler
+Setting up the Apache Authentication plugin for Hospitality Signage Platform
 =======================
 
 The authentication is done by the Apache server. The username is obtained

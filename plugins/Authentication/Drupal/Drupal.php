@@ -22,7 +22,7 @@ class Drupal extends Authentication implements IAuthentication
     private $_registration;
 
     /**
-     * Needed to register user if they are logging in to Drupal but do not have a FMG Scheduler account yet
+     * Needed to register user if they are logging in to Drupal but do not have a Hospitality Signage Platform account yet
      */
     private function GetRegistration()
     {

@@ -7,7 +7,7 @@ error_reporting(E_ALL & ~E_NOTICE & ~E_STRICT);
 /**
  * Application configuration
  */
-$conf['settings']['app.title'] = 'FMG Scheduler';			// application title
+$conf['settings']['app.title'] = 'Hospitality Signage Platform';			// application title
 $conf['settings']['default.timezone'] = 'Etc/UTC';              // look up here http://php.net/manual/en/timezones.php
 $conf['settings']['allow.self.registration'] = 'true';         	// if users can register themselves
 $conf['settings']['admin.email'] = 'admin@example.com';         // email address of admin user
@@ -97,7 +97,7 @@ $conf['settings']['database']['type'] = 'mysql';
 $conf['settings']['database']['user'] = 'booked_user';        // database user with permission to the booked database
 $conf['settings']['database']['password'] = 'password';
 $conf['settings']['database']['hostspec'] = '127.0.0.1';        // ip, dns or named pipe
-$conf['settings']['database']['name'] = 'fmgscheduler';
+$conf['settings']['database']['name'] = 'hsp';
 /**
  * Mail server configuration
  */

@@ -1,3 +1,3 @@
 {$FirstName},<br/>
-Bedankt voor het registreren bij FMG Scheduler. <a href="{$ActivationUrl}">Activeer je account</a>.
+Bedankt voor het registreren bij Hospitality Signage Platform. <a href="{$ActivationUrl}">Activeer je account</a>.
 

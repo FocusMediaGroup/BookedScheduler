@@ -758,7 +758,7 @@ class hu_hu extends en_us
         // End Strings
 
         // Install
-        $strings['InstallApplication'] = 'FMG Scheduler telepítése';
+        $strings['InstallApplication'] = 'Hospitality Signage Platform telepítése';
         $strings['IncorrectInstallPassword'] = 'Sajnáljuk, a jelszó nem megfelelő.';
         $strings['SetInstallPassword'] = 'Meg kell adnia egy jelszót, mielőtt a telepítő lefut.';
         $strings['InstallPasswordInstructions'] = 'In %s kérjük adjon meg egy jelszót %s egy jelszót, amely véletlen szerű és nehezen kitalálható, majd térjen vissza erre az oldalra.<br/>You can use %s';
@@ -790,7 +790,7 @@ class hu_hu extends en_us
         $strings['InstalledVersion'] = 'A következő verzióval használja a FMG Schedulert %s ';
         $strings['InstallUpgradeConfig'] = 'Ajánlott a konfigurációs fájl frissítése';
         $strings['InstallationFailure'] = 'Problémák voltak a telepítéssel.  Javítsa őket majd próbálja újra a telepítést.';
-        $strings['ConfigureApplication'] = 'FMG Scheduler beállítása';
+        $strings['ConfigureApplication'] = 'Hospitality Signage Platform beállítása';
         $strings['ConfigUpdateSuccess'] = 'A konfigurációs fájl már aktuális!';
         $strings['ConfigUpdateFailure'] = 'Nem tudjuk automatikusan frissíteni a konfigurációs fájlt. Kérjük, írja felül a config.php tartalmát a következőekkel:';
         $strings['ScriptUrlWarning'] = 'Az Ön <em>script.url</em> valószínűleg nem helyes. Jelenleg <strong>%s</strong>, úgy gondoljuk <strong>%s</strong>';

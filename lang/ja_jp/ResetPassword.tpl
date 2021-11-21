@@ -1,4 +1,4 @@
-FMG Scheduler の仮パスワードです:: {$TemporaryPassword}
+Hospitality Signage Platform の仮パスワードです:: {$TemporaryPassword}
 
 <br/>
 
@@ -6,4 +6,4 @@ FMG Scheduler の仮パスワードです:: {$TemporaryPassword}
 <br/>
 <br/>
 
-出来るだけ早く<a href="{$ScriptUrl}">FMG Scheduler にログイン</a>してパスワードを変更してください。
+出来るだけ早く<a href="{$ScriptUrl}">Hospitality Signage Platform にログイン</a>してパスワードを変更してください。

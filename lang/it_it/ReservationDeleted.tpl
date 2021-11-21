@@ -48,4 +48,4 @@
 {/if}
 <p><strong>Numero riferimento:</strong> {$ReferenceNumber}</p>
 <p>&nbsp;</p>
-<p><a href="{$ScriptUrl}">Login su FMG Scheduler</a></p>
+<p><a href="{$ScriptUrl}">Login su Hospitality Signage Platform</a></p>

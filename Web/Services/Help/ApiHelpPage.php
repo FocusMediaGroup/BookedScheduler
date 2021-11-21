@@ -9,7 +9,7 @@ class ApiHelpPage
 	    <html>
 	        <head>
 	            <meta charset="utf-8"/>
-	            <title>FMG Scheduler API Documentation</title>
+	            <title>Hospitality Signage Platform API Documentation</title>
 	              <link rel="shortcut icon" href="../favicon.ico"/>
                   <link rel="icon" href="../favicon.ico"/>
 	            <style type="text/css">
@@ -61,7 +61,7 @@ class ApiHelpPage
 	            </style>
 	        </head>
 	        <body>
-	            <h1>FMG Scheduler API Documentation</h1>
+	            <h1>Hospitality Signage Platform API Documentation</h1>
 EOT;
 
         $security = sprintf(

@@ -44,5 +44,5 @@
 	{/if}
 
 	<br/>
-	<a href="{$ScriptUrl}/{$ReservationUrl}">Podgląd rezerwacji</a> | <a href="{$ScriptUrl}">Zaloguj się do FMG Scheduler</a>
+	<a href="{$ScriptUrl}/{$ReservationUrl}">Podgląd rezerwacji</a> | <a href="{$ScriptUrl}">Zaloguj się do Hospitality Signage Platform</a>
 

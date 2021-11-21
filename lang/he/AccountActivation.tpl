@@ -1,5 +1,5 @@
 {$FirstName},<br/>
-תודה שנרשמת עם FMG Scheduler. נא <a href="{$ActivationUrl}">להפעיל את החשבון
+תודה שנרשמת עם Hospitality Signage Platform. נא <a href="{$ActivationUrl}">להפעיל את החשבון
 שלך</a>.
 
 

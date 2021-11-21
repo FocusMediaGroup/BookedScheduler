@@ -620,7 +620,7 @@ class cz extends en_us
         $strings['IncorrectInstallPassword'] = 'Nesprávné heslo.';
         $strings['SetInstallPassword'] = 'Před pokračováním musíte zadat instalační heslo.';
         $strings['InstallPasswordInstructions'] = 'V souboru %s nastavte řádek %s na náhodné a obtížně uhodnutelné heslo, poté se vraťte na tuto stránku.<br/>Můžete použít %s';
-        $strings['NoUpgradeNeeded'] = 'Žádná aktualizace není potřeba. Opětovné spuštění instalačního procesu smaže veškerá stávající data a znovu nainstaluje FMG Scheduler!';
+        $strings['NoUpgradeNeeded'] = 'Žádná aktualizace není potřeba. Opětovné spuštění instalačního procesu smaže veškerá stávající data a znovu nainstaluje Hospitality Signage Platform!';
         $strings['ProvideInstallPassword'] = 'Zadejte prosím instalační heslo.';
         $strings['InstallPasswordLocation'] = 'To je zadáno v souboru %s v řádku %s.';
         $strings['VerifyInstallSettings'] = 'Před pokračovnáním ověřte následující výchozí nastavení. Nebo jej změňte v %s.';
@@ -648,7 +648,7 @@ class cz extends en_us
         $strings['InstalledVersion'] = 'Nainstalovaná verze FMG Scheduleru je %s';
         $strings['InstallUpgradeConfig'] = 'Doporučujeme aktualizovat váš konfigurační soubor';
         $strings['InstallationFailure'] = 'Vyskytly se problémy během instalace. Prosím opravte je a zkuste instalaci spustit znovu.';
-        $strings['ConfigureApplication'] = 'Nastavit FMG Scheduler';
+        $strings['ConfigureApplication'] = 'Nastavit Hospitality Signage Platform';
         $strings['ConfigUpdateSuccess'] = 'Váš konfigurační soubor je aktuální!';
         $strings['ConfigUpdateFailure'] = 'Nepodařilo se automaticky aktualizovat konfigurační soubor. Prosím přepište obsah souboru config.php následujícím:';
         $strings['ScriptUrlWarning'] = 'Vaše nastavení <em>script.url</em> pravděpodobně není spávné. V současnosti je nastaveno na <strong>%s</strong>, ale nejspíše by mělo být <strong>%s</strong>';

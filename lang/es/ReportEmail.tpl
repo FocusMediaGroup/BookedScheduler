@@ -1,3 +1,3 @@
-Se adjunta un informe de FMG Scheduler.<br/><br/>
+Se adjunta un informe de Hospitality Signage Platform.<br/><br/>
 
-<a href="{$ScriptUrl}">Iniciar sesión en FMG Scheduler</a>
+<a href="{$ScriptUrl}">Iniciar sesión en Hospitality Signage Platform</a>

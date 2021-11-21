@@ -30,6 +30,6 @@
 	{/if}
 
 	<br/>
-	<a href="{$ScriptUrl}/{$ReservationUrl}">Näytä varaus</a> | <a href="{$ScriptUrl}">Kirjaudu sovellukseen FMG Scheduler</a>
+	<a href="{$ScriptUrl}/{$ReservationUrl}">Näytä varaus</a> | <a href="{$ScriptUrl}">Kirjaudu sovellukseen Hospitality Signage Platform</a>
 
 

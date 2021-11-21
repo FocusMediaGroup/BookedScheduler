@@ -22,5 +22,5 @@
 <p>
     <a href="{$ScriptUrl}/{$ReservationUrl}">Dettagli di questa prenotazione</a> |
     <a href="{$ScriptUrl}/{$ICalUrl}">Aggiungere prenotazione al calendario</a> |
-    <a href="{$ScriptUrl}">Login su FMG Scheduler</a>
+    <a href="{$ScriptUrl}">Login su Hospitality Signage Platform</a>
 </p>

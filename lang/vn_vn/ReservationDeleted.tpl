@@ -49,4 +49,4 @@ Description: {$Description|nl2br}
 
 <br/>
 <br/>
-<a href="{$ScriptUrl}">Log in to FMG Scheduler</a>
+<a href="{$ScriptUrl}">Log in to Hospitality Signage Platform</a>

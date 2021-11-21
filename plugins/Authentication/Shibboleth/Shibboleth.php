@@ -7,7 +7,7 @@ require_once ROOT_DIR . 'lib/Application/Authentication/namespace.php';
 require_once ROOT_DIR . 'plugins/Authentication/Shibboleth/namespace.php';
 
 /**
- * Shibboleth implementation of FMG Scheduler's authentication interface.
+ * Shibboleth implementation of Hospitality Signage Platform's authentication interface.
  * Supports auto-account provisioning on first-time login.
  *
  * @see IAuthorization

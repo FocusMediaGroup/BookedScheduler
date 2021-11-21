@@ -1,20 +1,20 @@
 ﻿{*
 Copyright 2011-2020 Nick Korbel, Paul Menchini
 
-This file is part of FMG Scheduler.
+This file is part of Hospitality Signage Platform.
 
-FMG Scheduler is free software: you can redistribute it and/or modify
+Hospitality Signage Platform is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
 
-FMG Scheduler is distributed in the hope that it will be useful,
+Hospitality Signage Platform is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
-along with FMG Scheduler.  If not, see <http://www.gnu.org/licenses/>.
+along with Hospitality Signage Platform.  If not, see <http://www.gnu.org/licenses/>.
 *}
 
 <p>您已经创建了一个新的账户，以下是账户信息：<br/>

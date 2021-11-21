@@ -1,5 +1,5 @@
-מצ"ב דו"ח שלך מ-FMG Scheduler.<br/>
+מצ"ב דו"ח שלך מ-Hospitality Signage Platform.<br/>
 
-<a href="{$ScriptUrl}">להתבר ל-FMG Scheduler</a>
+<a href="{$ScriptUrl}">להתבר ל-Hospitality Signage Platform</a>
 
 

@@ -641,7 +641,7 @@ class th_th extends en_gb
         // End Strings
 
         // Install
-        $strings['InstallApplication'] = 'ติดตั้ง FMG Scheduler (สำหรับ MySQL เท่านั้น)';
+        $strings['InstallApplication'] = 'ติดตั้ง Hospitality Signage Platform (สำหรับ MySQL เท่านั้น)';
         $strings['IncorrectInstallPassword'] = 'ขออภัย, รหัสผ่านไม่ถูกต้อง';
         $strings['SetInstallPassword'] = 'คุณต้องตั้งรหัสผ่านการติดตั้งก่อนที่จะเริ่มเข้าสู่การติดตั้ง';
         $strings['InstallPasswordInstructions'] = 'ใน %s โปรดตั้งค่า %s เป็นรหัสผ่านที่สุ่มและยากที่จะคาดเดา จากนั้นกลับไปที่หน้านี้ <br/> คุณสามารถใช้ %s ได้';
@@ -670,10 +670,10 @@ class th_th extends en_gb
         $strings['InstallationSuccess'] = 'การติดตั้งเสร็จสมบูรณ์!';
         $strings['RegisterAdminUser'] = 'การลงทะเบียนผู้ดูแลระบบนี้ จำเป็นอย่างยิ่งหากคุณไม่ได้นำเข้าข้อมูลตัวอย่าง แต่ทั้งนี้ต้องแน่ใจว่า  $conf[\'settings\'][\'allow.self.registration\'] = \'true\' ในไฟล์ %s .';
         $strings['LoginWithSampleAccounts'] = 'หากคุณนำเข้าข้อมูลตัวอย่างคุณสามารถเข้าสู่ระบบด้วย admin / password สำหรับผู้ใช้ admin หรือ user / password สำหรับผู้ใช้ขั้นพื้นฐาน';
-        $strings['InstalledVersion'] = 'คุณกำลังใช้งาน FMG Scheduler รุ่น %s';
+        $strings['InstalledVersion'] = 'คุณกำลังใช้งาน Hospitality Signage Platform รุ่น %s';
         $strings['InstallUpgradeConfig'] = 'ขอแนะนำให้อัปเกรดไฟล์คอนฟิกของคุณ';
         $strings['InstallationFailure'] = 'เกิดปัญหากับการติดตั้ง โปรดแก้ไขปัญหาเหล่านี้และลองติดตั้งอีกครั้ง';
-        $strings['ConfigureApplication'] = 'การตั้งค่า FMG Scheduler';
+        $strings['ConfigureApplication'] = 'การตั้งค่า Hospitality Signage Platform';
         $strings['ConfigUpdateSuccess'] = 'ไฟล์ config ของคุณได้รับการอัพเดทแล้ว !';
         $strings['ConfigUpdateFailure'] = 'เราไม่สามารถอัพเดทไฟล์ config ของคุณได้แบบอัตโนมัติ. กรุณาเขียนทับเนื่อหาของ config.php ตามนี้:';
         $strings['SelectUser'] = 'เลือกผู้ใช้ ';

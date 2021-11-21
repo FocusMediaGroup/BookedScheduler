@@ -49,5 +49,5 @@
 
 <br/>
 <br/>
-<a href="{$ScriptUrl}">FMG Scheduler へログイン</a>
+<a href="{$ScriptUrl}">Hospitality Signage Platform へログイン</a>
 

@@ -26,6 +26,6 @@ Kuvaus: {$Description|nl2br}<br/>
     <br/>
 {/foreach}
 
-<a href="{$ScriptUrl}">Kirjaudu sovellukseen FMG Scheduler</a>
+<a href="{$ScriptUrl}">Kirjaudu sovellukseen Hospitality Signage Platform</a>
 
 

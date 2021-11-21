@@ -52,5 +52,5 @@
 
 	<br/>
 	<br/>
-	<a href="{$ScriptUrl}/{$ReservationUrl}">Bekijk deze reservering</a> | <a href="{$ScriptUrl}">Login in FMG Scheduler</a>
+	<a href="{$ScriptUrl}/{$ReservationUrl}">Bekijk deze reservering</a> | <a href="{$ScriptUrl}">Login in Hospitality Signage Platform</a>
 

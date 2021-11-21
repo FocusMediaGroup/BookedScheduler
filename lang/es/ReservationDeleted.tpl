@@ -49,4 +49,4 @@ Descripción: {$Description|nl2br}<br/>
 
 <br/>
 <br/>
-<a href="{$ScriptUrl}">Iniciar sesión en FMG Scheduler</a>
+<a href="{$ScriptUrl}">Iniciar sesión en Hospitality Signage Platform</a>

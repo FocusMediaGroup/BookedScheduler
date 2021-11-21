@@ -48,5 +48,5 @@
 
 	<a href="{$ScriptUrl}/{$ReservationUrl}">Lihat reservasi ini</a> |
 	<a href="{$ScriptUrl}/{$ICalUrl}">Tambah ke kalender</a> |
-	<a href="{$ScriptUrl}">Masuk FMG Scheduler</a>
+	<a href="{$ScriptUrl}">Masuk Hospitality Signage Platform</a>
 

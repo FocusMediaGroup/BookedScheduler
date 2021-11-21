@@ -417,11 +417,11 @@ class id_id extends en_gb
         // End Strings
 
         // Install
-        $strings['InstallApplication'] = 'Pasang FMG Scheduler (hanya MySQL)';
+        $strings['InstallApplication'] = 'Pasang Hospitality Signage Platform (hanya MySQL)';
         $strings['IncorrectInstallPassword'] = 'Maaf, kata sandi salah.';
         $strings['SetInstallPassword'] = 'Anda harus mengatur kata sandi pemasangan sebelum pemasangan bisa dijalankan.';
         $strings['InstallPasswordInstructions'] = 'Dalam %s mohon atur %s manjadi kata sandi yang acak dan susah untuk ditebak, kemudian kembali ke halaman ini.<br/>Anda bisa menggunakan %s';
-        $strings['NoUpgradeNeeded'] = 'Tidak perlu pembaruan. Jalankan proses pemasangan akan menghapus semua dara yang ada dan memasang salinan baru FMG Scheduler!';
+        $strings['NoUpgradeNeeded'] = 'Tidak perlu pembaruan. Jalankan proses pemasangan akan menghapus semua dara yang ada dan memasang salinan baru Hospitality Signage Platform!';
         $strings['ProvideInstallPassword'] = 'Mohon masukkan kata sandi pemasangan.';
         $strings['InstallPasswordLocation'] = 'Bisa ditemukan di %s dalam %s.';
         $strings['VerifyInstallSettings'] = 'Periksa pengaturan standar berikut sebelum melanjutkan. Atau Anda bisa mengubahnya dalam %s.';
@@ -446,10 +446,10 @@ class id_id extends en_gb
         $strings['InstallationSuccess'] = 'Pemasangan berhasil!';
         $strings['RegisterAdminUser'] = 'Daftar pengguna admin Anda. Dibutuhkan jika Anda tidak ingin impor contoh data. Pastikan $conf[\'settings\'][\'allow.self.registration\'] = \'true\' dalam file %s .';
         $strings['LoginWithSampleAccounts'] = 'Jika Anda impor contoh data, Anda bisa masuk dengan admin/password untuk pengguna admin atau user/password untuk pengguna dasar.';
-        $strings['InstalledVersion'] = 'Anda sekarang menjalankan versi %s dari FMG Scheduler';
+        $strings['InstalledVersion'] = 'Anda sekarang menjalankan versi %s dari Hospitality Signage Platform';
         $strings['InstallUpgradeConfig'] = 'Direkomendasikan untuk mengupgrade file config Anda';
         $strings['InstallationFailure'] = 'Ada masalah dengan instalasi. Mohon perbaik dan ulangi pemasangan.';
-        $strings['ConfigureApplication'] = 'Pengaturan FMG Scheduler';
+        $strings['ConfigureApplication'] = 'Pengaturan Hospitality Signage Platform';
         $strings['ConfigUpdateSuccess'] = 'File config Anda sekarang yang terbaru!';
         $strings['ConfigUpdateFailure'] = 'Kami tidak bisa memperbarui otomatis file config Anda. Mohon tulis ulang isi config.php berikut:';
         // End Install

@@ -38,4 +38,4 @@
 		{/foreach}
 	{/if}
 
-	<a href="{$ScriptUrl}">Влизане в FMG Scheduler</a>
+	<a href="{$ScriptUrl}">Влизане в Hospitality Signage Platform</a>

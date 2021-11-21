@@ -1,2 +1,2 @@
 {$FirstName},<br/>
-Gracias por registrarte con FMG Scheduler. Por favor, <a href="{$ActivationUrl}">activa tu cuenta</a>.
+Gracias por registrarte con Hospitality Signage Platform. Por favor, <a href="{$ActivationUrl}">activa tu cuenta</a>.

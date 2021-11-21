@@ -33,5 +33,5 @@
     <a href="{$ScriptUrl}/{$ReservationUrl}">Dettagli di questa prenotazione</a> |
 	  <a href="{$ScriptUrl}/{$ICalUrl}">Aggiungere prenotazione al calendario</a>	|
 	  <a href="{$GoogleCalendarUrl}" target="_blank" rel="nofollow">Aggiungere al calendario di Google</a>	|
-    <a href="{$ScriptUrl}">Login su FMG Scheduler</a>
+    <a href="{$ScriptUrl}">Login su Hospitality Signage Platform</a>
 </p>

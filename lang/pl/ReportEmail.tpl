@@ -1,3 +1,3 @@
-W załączeniu Twój raport z FMG Scheduler.<br/>
+W załączeniu Twój raport z Hospitality Signage Platform.<br/>
 
-<a href="{$ScriptUrl}">Zaloguj się do FMG Scheduler</a>
+<a href="{$ScriptUrl}">Zaloguj się do Hospitality Signage Platform</a>

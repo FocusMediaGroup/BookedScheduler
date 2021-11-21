@@ -1,9 +1,9 @@
-To jest Twoje tymczasowe hasło do FMG Scheduler: {$TemporaryPassword}
+To jest Twoje tymczasowe hasło do Hospitality Signage Platform: {$TemporaryPassword}
 
 <br/>
 
 Twoje stare hasło nie będzie już działać.
 <br/>
 
-Proszę <a href="{$ScriptUrl}">zalogować się do FMG Scheduler</a> i niezwłocznie zmienić hasło.
+Proszę <a href="{$ScriptUrl}">zalogować się do Hospitality Signage Platform</a> i niezwłocznie zmienić hasło.
 

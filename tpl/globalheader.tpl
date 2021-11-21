@@ -328,7 +328,7 @@
                                 {if $ShowNewVersion}
                                     <li class="divider new-version"></li>
                                     <li id="navNewVersion" class="new-version">
-                                        <a href="https://www.fmgegypt.com/whatsnew">{translate key=WhatsNew}</a>
+                                        <a href="https://www.fmgegypt.com/page/support">{translate key=WhatsNew}</a>
                                     </li>
                                 {/if}
                             </ul>

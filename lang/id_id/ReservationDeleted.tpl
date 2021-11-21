@@ -47,5 +47,5 @@ Penjeasan: {$Description|nl2br}<br/>
     {/foreach}
 {/if}
 
-<a href="{$ScriptUrl}">Masuk FMG Scheduler</a>
+<a href="{$ScriptUrl}">Masuk Hospitality Signage Platform</a>
 

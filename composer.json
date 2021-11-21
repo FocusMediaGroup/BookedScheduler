@@ -1,5 +1,5 @@
 {
-    "description": "FMG Scheduler",
+    "description": "Hospitality Signage Platform",
     "autoload": {},
     "require-dev": {
         "kint-php/kint": "^3.3",

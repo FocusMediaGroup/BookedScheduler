@@ -52,5 +52,5 @@
 
 	<br/>
 	<br/>
-	<a href="{$ScriptUrl}/{$ReservationUrl}">予約の表示</a> | <a href="{$ScriptUrl}">FMG Scheduler へログイン</a>
+	<a href="{$ScriptUrl}/{$ReservationUrl}">予約の表示</a> | <a href="{$ScriptUrl}">Hospitality Signage Platform へログイン</a>
 

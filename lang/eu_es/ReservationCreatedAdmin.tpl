@@ -52,4 +52,4 @@
 
 	<br/>
 	<br/>
-	<a href="{$ScriptUrl}/{$ReservationUrl}">Erreserba hau ikusi</a> | <a href="{$ScriptUrl}">Saioa hasi FMG Scheduler-en</a>
+	<a href="{$ScriptUrl}/{$ReservationUrl}">Erreserba hau ikusi</a> | <a href="{$ScriptUrl}">Saioa hasi Hospitality Signage Platform-en</a>

@@ -11,7 +11,7 @@
 * E-mail: mingminghomework@gmail.com
 *
 *
-* Tested on FMG Scheduler 2.4.2
+* Tested on Hospitality Signage Platform 2.4.2
 *
 *
 *

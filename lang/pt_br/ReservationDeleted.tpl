@@ -24,4 +24,4 @@
 		{formatdate date=$date}<br/>
 	{/foreach}
 
-	<a href="{$ScriptUrl}">Acessar o FMG Scheduler</a>
+	<a href="{$ScriptUrl}">Acessar o Hospitality Signage Platform</a>

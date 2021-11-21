@@ -1,5 +1,5 @@
-Votre rapport de FMG Scheduler est en piece-jointe.<br/>
+Votre rapport de Hospitality Signage Platform est en piece-jointe.<br/>
 
-<a href="{$ScriptUrl}">Connexion à FMG Scheduler</a>
+<a href="{$ScriptUrl}">Connexion à Hospitality Signage Platform</a>
 
 

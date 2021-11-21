@@ -21,7 +21,7 @@ class AuthenticationWebService
 
     /**
      * @name Authenticate
-     * @description Authenticates an existing FMG Scheduler user
+     * @description Authenticates an existing Hospitality Signage Platform user
      * @request AuthenticationRequest
      * @response AuthenticationResponse
      * @return void

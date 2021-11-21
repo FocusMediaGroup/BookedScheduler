@@ -1,4 +1,4 @@
-# FMG Scheduler API Documentation
+# Hospitality Signage Platform API Documentation
 
 A dynamically generated API documentation Page can be found by opening `<booked-url>/Web/Services/index.php` (API has to be enabled in config)
 
@@ -491,7 +491,7 @@ __Request:__
 
 __Description:__  
 
-Authenticates an existing FMG Scheduler user
+Authenticates an existing Hospitality Signage Platform user
 
 __Route:__ `/Web/Services/index.php/Authentication/Authenticate`
 

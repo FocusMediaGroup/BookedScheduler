@@ -219,7 +219,7 @@ class pt_pt extends en_gb
         $strings['ConfigurationFileNotWritable'] = 'Não possível gravar o ficheiro de configuração. Por favor verifique as permissões deste ficheiro e tente novamente.';
         $strings['ConfigurationUpdateHelp'] = 'Consulte a secção de Configuração no <a target=_blank href=%s>Ficheiro de Ajuda</a> para documentação sobre estas configurações.';
         $strings['ConfigurationUpdated'] = 'O ficheiro de configuração foi atualizado';
-        $strings['ConfigureApplication'] = 'Configure o FMG Scheduler';
+        $strings['ConfigureApplication'] = 'Configure o Hospitality Signage Platform';
         $strings['ConflictingAccessoryDates'] = 'Não são suficientes os seguintes acessórios:';
         $strings['ConflictingReservationDates'] = 'Há reservas em conflito nas seguintes datas:';
         $strings['Contact'] = 'Contato';
@@ -400,14 +400,14 @@ class pt_pt extends en_gb
         $strings['IncludingCompletedReservations'] = 'Incluindo reservas concluídas';
         $strings['IncorrectInstallPassword'] = 'A senha introduzida estava incorreta';
         $strings['Install'] = 'Instalação';
-        $strings['InstallApplication'] = 'Instalar o FMG Scheduler';
+        $strings['InstallApplication'] = 'Instalar o Hospitality Signage Platform';
         $strings['InstallOptionsWarning'] = 'As opções seguintes provavelmente não funcionarão num ambiente hospedado. Se estiver a instalar num ambiente hospedado, utilizeas ferramentas do assistente MySQL para concluir estas etapas.';
         $strings['InstallPasswordInstructions'] = 'Em %1$s por favor defina %2$s para uma senha aleatória e difícil de adivinhar, depois regresse a esta página.<br/>Pode utilizar %3$s';
         $strings['InstallPasswordLocation'] = 'Esta pode ser encontrada em %1$s em %2$s.';
         $strings['InstallUpgradeConfig'] = 'É recomendável atualizar o seu ficheiro de configuração';
         $strings['InstallationFailure'] = 'Ocorreram problemas com a instalação. Por favor corrija-os e tente novamente a instalação.';
         $strings['InstallationSuccess'] = 'Instalação concluída com sucesso!';
-        $strings['InstalledVersion'] = 'Esta agora a correr a versão %s do FMG Scheduler';
+        $strings['InstalledVersion'] = 'Esta agora a correr a versão %s do Hospitality Signage Platform';
         $strings['InsufficientPermissionsError'] = 'Não tem permissão para aceder a este recurso';
         $strings['InvalidAttachmentExtension'] = 'Só pode fazer upload de arquivos do tipo: %s';
         $strings['InvalidEmailDomain'] = 'O endereço de email não é de um domínio permitido';

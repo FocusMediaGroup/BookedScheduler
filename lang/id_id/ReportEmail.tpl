@@ -1,4 +1,4 @@
-Laporan Anda dari FMG Scheduler terlampir.<br/>
+Laporan Anda dari Hospitality Signage Platform terlampir.<br/>
 
-<a href="{$ScriptUrl}">Masuk FMG Scheduler</a>
+<a href="{$ScriptUrl}">Masuk Hospitality Signage Platform</a>
 

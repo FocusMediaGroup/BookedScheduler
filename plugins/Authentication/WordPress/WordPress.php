@@ -4,7 +4,7 @@ require_once(ROOT_DIR . 'lib/Application/Authentication/namespace.php');
 require_once(ROOT_DIR . 'plugins/Authentication/WordPress/namespace.php');
 
 /**
- * Provides WordPress authentication/synchronization for FMG Scheduler
+ * Provides WordPress authentication/synchronization for Hospitality Signage Platform
  * @see IAuthorization
  */
 class WordPress extends Authentication implements IAuthentication
