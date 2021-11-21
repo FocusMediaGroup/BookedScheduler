@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 METHOD:REQUEST
-PRODID:-//BookedScheduler//NONSGML {$bookedVersion}//EN
+PRODID:-//FMGScheduler//NONSGML {$bookedVersion}//EN
 {foreach from=$Reservations item=reservation}
 BEGIN:VEVENT
 CLASS:PUBLIC

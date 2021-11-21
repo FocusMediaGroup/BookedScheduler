@@ -1,4 +1,4 @@
-# BookedScheduler Installation
+# FMGScheduler Installation
 
 Note: for users without web hosting service or existing environment, packages like [XAMMP](http://www.apachefriends.org/en/index.html) or [WampServer](http://www.wampserver.com/en/) can help you get set up quickly.
 

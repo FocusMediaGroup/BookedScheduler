@@ -2,7 +2,7 @@
 
 ## Working on the projekt
 The `develop` branch contains the most current working code of the Project and should be considered beta.  
-The `master` branch is the most current stable release of BookedScheduler.  
+The `master` branch is the most current stable release of FMGScheduler.  
 You can automatically keep your fork up to date with the [pull GitHub App](https://github.com/apps/pull). which will sync the `master` (hardreset) and `develop` (rebase) branches for you.
 Please commit bugfixes / features to a new branch prefixed `bugfix-`, `feature-` so they can be looked over, and pull requested to the `develop` branch and will eventually end up in a release on `master`.
 
@@ -111,4 +111,4 @@ lints (just warnings) and fixes (changes files) code formating to [PSR-12]
 
 ## Database
 ![Entity Relationship Diagram](./ERD.svg)
-you can open `/doc/BookedScheduler.mbw` with [MySQL Workbench](https://www.mysql.com/products/workbench/) to edit/update this ERD
+you can open `/doc/FMGScheduler.mbw` with [MySQL Workbench](https://www.mysql.com/products/workbench/) to edit/update this ERD
