@@ -68,7 +68,7 @@ This will be the database user and database password set in your Booked config f
 **Please be aware that some hosts will prefix your database user name.**  
 
 Create a new database with whatever name you choose.  
-This will be the name of the database in your Booked config file. 'bookedscheduler' is the recommended database name.  
+This will be the name of the database in your Booked config file. 'fmgscheduler' is the recommended database name.  
 
 **Please be aware that some hosts will prefix your database name.**  
 
@@ -77,12 +77,12 @@ Click the 'Add User to Db' button. 'Creating tables'
 Open phpMyAdmin.  
 Click on the database name that you just created in the left panel.  
 Click the SQL tab at the top of the page.  
-Import `/database_schema/create-schema.sql` to bookedscheduler (or whatever database name was used in the creation process)  
-Import `/database_schema/create-data.sql` to bookedscheduler (or whatever database name was used in the creation process)  
+Import `/database_schema/create-schema.sql` to fmgscheduler (or whatever database name was used in the creation process)  
+Import `/database_schema/create-data.sql` to fmgscheduler (or whatever database name was used in the creation process)  
 
 If you have database creation privileges in MySQL  
 Open `/database_schema/full-install.sql` and edit the database name and username/password to match your `config.php` database values  
-Run or import `/database_schema/full-install.sql` Optionally - run/import `/database_schema/testdata-utf8.sql` to bookedscheduler (sample application data will be created with 2 users: admin/password and user/password).  
+Run or import `/database_schema/full-install.sql` Optionally - run/import `/database_schema/testdata-utf8.sql` to fmgscheduler (sample application data will be created with 2 users: admin/password and user/password).  
 These users are available for testing your installation.  
 
 You are done. Try to load the application at (eg. http://yourhostname/booked/Web/).
@@ -157,7 +157,7 @@ At this time, it is recommended to change your password.
  Booked logs multiple levels of information categorized into either application or database logs. To do this, the log4php library is used. By default, logging is turned OFF. - First, rename /config/log4php.config.dist.xml to /config/log4php.config.xml
 - To allow application logging, the PHP account requires write access (0755) to your configured log directory. 
 - Logging is configured in /config/log4php.config.xml - For Windows, set the path to something similar to <param name="file" value="c:/temp/log\_%s.log" />
-- For Unix, set the path to something similar to <param name="file" value="/tmp/bookedscheduler/log\_%s.log" />
+- For Unix, set the path to something similar to <param name="file" value="/tmp/fmgscheduler/log\_%s.log" />
 
 - Logging is controlled by changing the <level> of each <logger>
 - Levels used by Booked are OFF, DEBUG, ERROR. For normal operation, ERROR is appropriate. If trace logs are needed, DEBUG is appropriate. 

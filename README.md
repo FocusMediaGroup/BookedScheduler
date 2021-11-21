@@ -20,7 +20,7 @@ This is a community effort to keep the OpenSource [GPLv3](./LICENSE.md) BookedSc
 <https://github.com/FocusMediaGroup/BookedScheduler>
 
 ## Chat
-We now have a chatroom on Gitter.im, join us at: <https://gitter.im/bookedscheduler>
+We now have a chatroom on Gitter.im, join us at: <https://gitter.im/fmgscheduler>
 
 ## Release Notes
 
